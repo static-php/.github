@@ -1,6 +1,18 @@
-## Hi there 👋
+# Hi! I am static-php 👋
 
 static-php ([crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli)) can build standalone PHP binary on Linux, macOS, FreeBSD, with PHP project together, with popular extensions included.
+
+## Standalone distributable binary
+
+Manually compile PHP? Building a PHP environment using Docker? Installing PHP using package management? No longer needed!
+
+Compile the PHP cli with static-php-cli and distribute the PHP interpreter as part of the project!
+
+## Make Single-File PHP Executable
+
+Powered by phpmicro, it is now possible to combine a PHP-cli project with the PHP interpreter into a single file and execute it!
+
+## Contributing
 
 This organization is used to store static-php-cli related project repository.
 
