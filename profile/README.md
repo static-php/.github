@@ -6,7 +6,7 @@ static-php ([crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static
 
 Manually compile PHP? Building a PHP environment using Docker? Installing PHP using package management? No longer needed!
 
-Compile the PHP cli with static-php-cli and distribute the PHP interpreter as part of the project!
+Compile the PHP cli using [static-php-cli](https://github.com/crazywhalecc/static-php-cli) and distribute the PHP interpreter as part of the project!
 
 ### Make Single-File PHP Executable
 
