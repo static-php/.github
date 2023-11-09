@@ -16,7 +16,7 @@ Powered by phpmicro, it is now possible to combine a PHP-cli project with the PH
 
 This organization is used to store static-php-cli related project repository.
 
-If you want to contribute to static-php-cli and related projects in the long term, don't hesitate to join!
+If you want to contribute to static-php-cli and related projects, don't hesitate to join!
 
 I'm not good at designing logos, it would be great if someone could suggest a better one.
 
