@@ -12,9 +12,9 @@ Compile the PHP cli using [static-php-cli](https://github.com/crazywhalecc/stati
 
 Powered by phpmicro, it is now possible to combine a PHP-cli project with the PHP interpreter into a single file and execute it!
 
-### 🌟 Used by Leading Projects
+### 🌟 Used by Renowned Projects
 
-Our project is proudly utilized by several renowned projects. Here's a glance at some of them:
+This builder is proudly utilized by several renowned projects. Here's a glance at some of them:
 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp): FrankenPHP is a modern application server for PHP built on top of the Caddy web server.
 - [nativephp/laravel](https://github.com/nativephp/laravel): Write native desktop applications using PHP.
