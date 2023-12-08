@@ -20,8 +20,6 @@ This builder is proudly utilized by several renowned projects. Here's a glance a
 - [nativephp/laravel](https://github.com/nativephp/laravel): Write native desktop applications using PHP.
 - [Laravel Herd](https://herd.laravel.com/): One click PHP development environment for macOS.
 
-Join this growing list of projects by using static-php-cli in your workflow!
-
 ### Contributing
 
 This organization is used to store static-php-cli related project repository.
