@@ -8,7 +8,7 @@ Manually compile PHP? Building a PHP environment using Docker? Installing PHP us
 
 Compile the PHP cli using [static-php-cli](https://github.com/crazywhalecc/static-php-cli) and distribute the PHP interpreter as part of the project!
 
-### 🐘 Make Single-File PHP Executable
+### 🐘 Make Self-Extracted Executable for CLI Project
 
 Powered by phpmicro, it is now possible to combine a PHP-cli project with the PHP interpreter into a single file and execute it!
 
