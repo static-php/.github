@@ -16,7 +16,7 @@ Powered by phpmicro, it is now possible to combine a PHP-cli project with the PH
 
 This builder is proudly utilized by several renowned projects. Here's a glance at some of them:
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp): FrankenPHP is a modern application server for PHP built on top of the Caddy web server.
+- [php/frankenphp](https://github.com/php/frankenphp): FrankenPHP is a modern application server for PHP built on top of the Caddy web server.
 - [nativephp/laravel](https://github.com/nativephp/laravel): Write native desktop applications using PHP.
 - [Laravel Herd](https://herd.laravel.com/): One click PHP development environment for macOS.
 
